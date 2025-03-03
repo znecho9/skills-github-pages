@@ -19,7 +19,7 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
   Define terms and link to docs.github.com.
 -->
 
-## Step 5: Merge your pull request
+
 
 _Nice work, friend :heart:! People will be reading your blog in no time!_
 
